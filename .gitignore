@@ -1,0 +1,22 @@
+# ---- Build artifacts ----
+backend/target/
+
+# ---- Node ----
+frontend/node_modules/
+frontend/dist/
+
+# ---- Logs ----
+logs/
+
+# ---- Task / spec files (contain DB credentials) ----
+task.txt
+task2.txt
+
+# ---- IDE ----
+.idea/
+*.iml
+.vscode/
+
+# ---- OS ----
+Thumbs.db
+.DS_Store
